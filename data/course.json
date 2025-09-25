@@ -1,0 +1,53 @@
+{
+  "term": "Spring",
+  "year": "2024",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Fine Arts",
+      "Architecture",
+      "Environmental Design"
+    ],
+    [
+      "Fine Arts",
+      "Visual Arts",
+      "Photography"
+    ],
+    [
+      "Social Science",
+      "Urban Studies"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "d713582d-90f8-7193-25a2-44bdcc9fee64"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "bcc8f3a4-f3f7-43aa-a4b9-cdc8047608bb",
+    "website": "sensing-place-photography-as-inquiry"
+  },
+  "course_title": "Sensing Place: Photography as Inquiry",
+  "hide_download": true,
+  "course_description": "This course explores photography as a disciplined way of seeing, as a research method, and as a medium of inquiry and of expressing ideas. Readings, observations, and photographs form the basis of discussions on landscape, light, significant detail, place, narrative, and how photography can inform research, design, and planning, among other issues. The class is highly recommended for students who want to employ visual methods in their thesis or dissertation.",
+  "department_numbers": [
+    "11",
+    "4"
+  ],
+  "extra_course_numbers": "4.215J",
+  "primary_course_number": "11.309J",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "sensing-place-photography-as-inquiry"
+  },
+  "learning_resource_types": [
+    "Media Assignments with Examples"
+  ],
+  "site_uid": "6b57ccd6-1ae0-4944-9f33-cec997c69c72",
+  "site_short_id": "11.309-spring-2024",
+  "site_url_path": "courses/11-309j-sensing-place-photography-as-inquiry-spring-2024"
+}
